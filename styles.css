@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Maven Pro', sans-serif;    
+}
+
+.container {
+    width: 930px;
+    background: #dddfd4;
+    margin: auto;
+    /*display: inline-block;*/
+}
+
+.header {
+    display: inline-block;
+    width: 882px;
+    height: 36px;
+    margin: 12px 12px 0px 12px;
+    padding: 10px;
+    background: #1fb1ac;
+}
+
+.logo img {
+    display: inline-block;
+}
+
+.logo h1 {
+    display: inline-block;
+    font-size: 26px;
+    vertical-align: top;
+    padding-left: 6px;
+
+}
+
+.logo {
+    display: inline-block;
+    padding-top: 1px;
+}
+
+.navBar {
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 9px;
+    vertical-align: top;
+}
+
+.navBar a {
+    color: white;
+    font-size: 14px;
+    padding-left: 20px;
+}
+
+.body {
+    width: 882px;
+    height: 500px;
+    margin: 12px 12px 6px 12px;
+    padding: 10px;
+    background: #ffe598;
+}
+
+.textBox {
+    background: #0e4044;
+    color: #d4d8ce;
+    padding: 14px;
+}
+
+.textBox p {
+    font-size: 13px;
+    padding-left: 8px;
+    padding-bottom: 14px;
+}
+
+.bodLeft {
+    display: inline-block;
+    width: 188px;
+    margin: 12px 18px 12px 12px;
+}
+
+.bodLeft h2 {
+    font-size: 20px;
+    padding-bottom: 14px;
+}
+
+.bodRight {
+    display: inline-block;
+    width: 620px;
+    vertical-align: top;
+
+}
+
+.bodRightTop {
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    /*margin-bottom: 12px;*/
+    
+}
+
+.bodRightTopBox {
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    margin: 12px 18px 12px 18px;
+    vertical-align: top;
+}
+
+.bodRight h3 {
+    font-size: 16px;
+}
+
+.bodRightTop p {
+    width: 110px;
+    padding-top: 10px;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+.blueText {
+    color: #35dac9;
+}
+
+.bodRightMiddle {
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin-bottom: 12px;
+}
+
+.bodRightMiddle p {
+    padding-top: 10px;
+}
+
+.bodRightMiddleBox {
+    display: inline-block;
+    width: 220px;
+    height: 120px;
+    padding: 20px;
+    margin: auto;
+}
+
+.bodRightBottom {
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}
+
+.bodRightBottomBox {
+    width: 534px;
+
+}
+
+.bodRightBottom p {
+    width: 480px;
+    height: 54px;
+    padding-top: 10px;
+    padding-bottom: 29px;
+}
+
+.footer {
+    display: inline-block;
+    width: 882px;
+    height: 34px;
+    margin: 0px 12px 0px 12px;
+    padding: 22px;
+    background: #1fb1ac;
+    text-align: center;
+    font-size: 13px;
+    line-height: 34px;
+}
+
+.footer a {
+    color: #4f248c;
+}
