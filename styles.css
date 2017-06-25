@@ -158,14 +158,14 @@
 
 .footer {
     display: inline-block;
-    width: 882px;
-    height: 34px;
+    width: 858px;
+    height: 30px;
     margin: 0px 12px 0px 12px;
     padding: 22px;
     background: #1fb1ac;
     text-align: center;
     font-size: 13px;
-    line-height: 34px;
+    line-height: 30px;
 }
 
 .footer a {
